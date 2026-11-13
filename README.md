@@ -82,6 +82,22 @@ The project demonstrates how data analysis can support inventory planning, seaso
 - Data visualisation
 - Business insight generation
 - Analytical problem-solving
+  
+---
 
-Business insight generation
-Analytical problem-solving
+## 9. Project Charts
+
+### 1. Bottom 10 Products by Quantity Sold
+![Bottom 10 Products by Quantity Sold](Bottom%2010%20Products%20by%20Quantity%20Sold.png)
+
+### 2. Monthly Revenue Trend
+![Monthly Revenue Trend](Monthly%20Revenue%20Trend.png)
+
+### 3. Top 10 Countries by Revenue
+![Top 10 Countries by Revenue](Top%2010%20Countries%20Revenue.png)
+
+### 4. Top 10 Products by Quantity Sold
+![Top 10 Products by Quantity Sold](Top%2010%20Products%20by%20Quantity%20Sold.png)
+
+### 5. Top 10 Products by Revenue
+![Top 10 Products by Revenue](Top%2010%20Products%20by%20Revenue%20Sold.png)
